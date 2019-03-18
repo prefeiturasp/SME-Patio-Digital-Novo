@@ -1,0 +1,28 @@
+/* Página Imagem Destacada Topo */
+.titulo-imagem-destacada-topo{
+    color: #fff !important;
+}
+.topo-img-pagina-imagem-destacada-topo{
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    margin-bottom: 35px;
+    position: relative;
+
+}
+
+.topo-img-pagina-imagem-destacada-topo h3{
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    text-align: center !important;
+    color: #fff;
+    padding: 125px 0;
+    text-shadow:0 1px 0 #000000;
+}
+
+.separador-pagina-imagem-destacada-topo {
+    margin: 25px 0 65px 0;
+    font-size: 17px;
+    color: #000;
+    text-align: center;
+}

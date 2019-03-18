@@ -1,0 +1,62 @@
+/*Estilos para os numeros randomicos*/
+.background-numeros-randomicos{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.texto-count i{
+    font-style: normal;
+}
+
+.rounded-border-numeros-randomicos{
+    border-radius: 50%!important;
+    border: solid 1px #fff;
+    width: 200px;
+    height: 200px;
+}
+.container-numeros-randomicos{
+    text-align: center;
+    position: relative;
+    float: left;
+    width: 100%;
+    color: #fff !important;
+    padding: 15px !important;
+}
+.container-numeros-randomicos-inner{
+    display: inline-block;
+    padding: 0 0 !important;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+}
+
+.container-numeros-randomicos .count{
+    font-size: 40px;
+    display: block !important;
+    font-weight: 900;
+
+}
+.container-numeros-randomicos .texto-count{
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+.container-numeros-randomicos .titulo-cpt-numeros-randomicos{
+    font-size: 18px !important;
+
+}
+
+.esconde-texto{
+    display: none !important;
+}
+
+.mostra-texto{
+    display: block !important;
+}
+
+@media ( max-width : 767px) {
+   .container-numeros-randomicos .count .container-numeros-randomicos .texto-count{
+        font-size: 40px !important;
+    }
+}

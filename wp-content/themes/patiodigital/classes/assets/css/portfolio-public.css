@@ -1,0 +1,35 @@
+.flex-basis-portfolio{
+    flex-basis: 30%;
+}
+
+.titulos-single-portfolio{
+    padding: 1em 15px;
+    width: 100%;
+
+}
+
+@media ( max-width : 992px) {
+    .flex-basis-portfolio{
+        flex-basis: 48% !important;
+        margin: 1%;
+    }
+}
+@media ( max-width : 577px) {
+    .flex-basis-portfolio{
+        flex-basis: 98% !important;
+        margin: 15px !important;
+    }
+
+    .container-post-thumbnail-single-portfolio{
+        width: 100%;
+        position: relative;
+        float: left;
+        margin-bottom: 15px;
+    }
+
+    .container-post-thumbnail-single-portfolio img{
+        margin: 0 auto !important;
+        display: block;
+        float: none;
+    }
+}

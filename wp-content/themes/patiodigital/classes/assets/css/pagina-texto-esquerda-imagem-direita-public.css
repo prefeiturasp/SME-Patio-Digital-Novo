@@ -1,0 +1,32 @@
+.alimentacao-escolar {
+    background: #7E3CB8;
+    color: #FFF;
+    padding-bottom: 45px;
+}
+
+.alimentacao-escolar h2 {
+    color: #FFF;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bold;
+    margin: 45px 0 25px;
+}
+
+.alimentacao-escolar p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.alimentacao-escolar .btn-primary {
+    font-weight: bold;
+    height: 50px;
+    margin: 24px 0 0 0;
+    width: 250px;
+}
+
+.alimentacao-escolar img {
+    margin-top: 40px;
+}
+.alimentacao-escolar .botao-como-imagem {
+    margin-top: 10px !important;
+}

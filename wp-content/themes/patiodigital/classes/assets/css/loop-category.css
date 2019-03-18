@@ -1,0 +1,13 @@
+.card-img-overlay-loop-category{
+    top: auto !important;
+    margin-bottom: 0 !important;
+    background: rgb(0, 0, 0, 0.5) !important;
+}
+
+.card-body-loop-category a{
+    color: #000;
+}
+
+.texto-black{
+    color: #000;
+}

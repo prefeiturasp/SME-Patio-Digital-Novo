@@ -1,0 +1,49 @@
+.paragrafoPai{
+    display: inline-block;
+    padding: 5px;
+    border: solid 1px #ccc;
+    margin: 5px;
+}
+
+#select_bullets{
+    font-family: FontAwesome, sans-serif;
+}
+
+#font-selector{
+    border: 1px solid #ddd;
+    font-size: 18px;
+    height: 12em;
+}
+
+#font-selector option {
+    padding: 2px 6px;
+}
+
+#temp_load{
+    background-color: #fff;
+    height: 100px;
+    width: 100%;
+    margin-left: 0;
+    opacity: .85;
+    z-index:1;
+    position: relative;
+    background-image: url("../img/5_32X32.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.padding-top-15 {
+    padding-top: 15px;
+}
+
+.padding-top-30 {
+    padding-top: 30px;
+}
+
+.padding-bottom-15 {
+    padding-bottom: 15px;
+}
+
+.padding-bottom-30 {
+    padding-bottom: 30px;
+}

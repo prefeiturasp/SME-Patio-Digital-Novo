@@ -1,0 +1,14 @@
+h4.data-noticias-single, .span-tags, .span-tags a{
+    font-style: normal;
+    font-weight: 400;
+    color: #686868;
+    font-size: 14px;
+}
+
+h4.data-noticias-single i{
+    font-size: 13px;
+}
+
+.span-tags a:hover{
+    text-decoration: underline;
+}

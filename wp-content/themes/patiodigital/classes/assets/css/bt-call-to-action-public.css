@@ -1,0 +1,60 @@
+.sociedade-governo h1 {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.sociedade-governo p {
+    font-size: 18px;
+}
+
+.sociedade-governo .alerta {
+    border-radius: .3rem;
+    color: #FFF;
+    font-size: 22px;
+    font-weight: bold;
+
+    margin: 55px 0 0 0;
+    padding: 10px 0 0;
+}
+
+.sociedade-governo .alerta span {
+    margin: 0 0 0 1em;
+
+    letter-spacing: normal;
+}
+
+.sociedade-governo .alerta .btn-info {
+
+    font-weight: bold;
+    margin-bottom: 0.6em;
+    margin-right: 1em;
+}
+
+.sociedade-governo .col-3 {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.sociedade-governo .col-3 img {
+    margin: 0 0 50px;
+}
+
+.sociedade-governo .row .btn-primary {
+    background: #109390;
+    border-color: #109390;
+    display: block;
+    font-style: normal;
+    font-weight: bold;
+    height: 50px;
+    margin-bottom: 80px;
+    width: 250px;
+}
+
+@media (max-width: 768px) {
+    .sociedade-governo .alerta {
+        font-size: 18px;
+    }
+
+}

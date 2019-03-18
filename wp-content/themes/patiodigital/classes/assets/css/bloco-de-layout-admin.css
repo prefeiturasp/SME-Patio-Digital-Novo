@@ -1,0 +1,34 @@
+.container-grid img{
+    margin: 0 auto;
+    max-width: 100%;
+
+}
+
+.container-grid div{
+    border: solid 1px #ccc;
+    margin-right: 0.3% !important;%
+
+}
+.grid-2-colunas{
+    width: 48%;
+    position: relative;
+    float: left;
+}
+
+.grid-3-colunas{
+    width: 30%;
+    position: relative;
+    float: left;
+}
+
+.grid-4-colunas{
+    width: 22%;
+    position: relative;
+    float: left;
+}
+
+.grid-5-colunas{
+    width: 18%;
+    position: relative;
+    float: left;
+}
